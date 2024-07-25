@@ -1,0 +1,54 @@
+/*Style de la tabla Inicial*/
+table {
+    width: 80%;
+    height: 650px;
+    border: 1px;
+    border-collapse: collapse;
+    display: table;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#title_1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+img {
+    border-color: white;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+#credits_1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+/*Style del Menú*/
+#nav_1 {
+    width: 90%;
+    margin: 0%;
+}
+
+.menu_1 {
+    list-style: none;
+}
+
+.menu_1 a {
+    font-family: Verdana;
+    text-decoration: none;
+    background-color: #221B15;
+    color: white;
+    padding: 15px;
+    display:block;
+}
+
+.menu_1 a:hover {
+    background-color: #310C6A;
+    color: black;
+}
