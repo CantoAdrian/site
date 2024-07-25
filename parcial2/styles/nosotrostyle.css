@@ -1,0 +1,30 @@
+.subtexto{
+    font-size: 25px;
+    font-family: gill sans;
+    padding: 0 0 50px 0;
+    font-style: oblique;
+}
+
+.ilustracion{
+    float: left;
+    margin: 0 0 50px 100px ;
+}
+
+.descripcion{
+    float: left;
+    width: 600px;
+    margin: 10px 0 0 100px;
+}
+
+.descripcion p{
+    font-family: Franklin Gothic Medium;
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+}
+
+.separador{
+    width: 1200px;
+    margin: 0 0 20px 0 ;
+    border: 2px solid #EF2153;
+}

@@ -1,0 +1,75 @@
+body{
+    background: #1f0505;
+}
+
+.titulo1{
+    text-align: center;
+    padding: 30px 0 30px 430px;
+    color: #EF2153;
+    font-size: 60px;
+    font-family: Franklin Gothic Medium;
+}
+
+.formulario{
+    margin: 100px 0 50px 0;
+}
+
+.forma{
+    float: left;
+}
+
+.input-1:hover, .input-2:hover{
+    opacity: 0.5;
+    cursor: text;
+}
+
+.forma-2{
+    float: left;
+}
+
+.input-1{
+    width: 500px;
+    height: 30px;
+    margin: 20px 0 0 100px;
+    padding: 20px 0 20px 20px;
+    font-family: Franklin Gothic Medium;
+    font-weight: bold;
+    color: #EF2153;
+    border-radius: 10px;
+    border: none;
+}
+
+.input-2{
+    width: 500px;
+    height: 255px;
+    margin: 20px 100px 0 100px;
+    font-weight: bold;
+    font-family: Franklin Gothic Medium;
+    font-weight: bold;
+    color: #EF2153;
+    border-radius: 10px;
+    padding: 10px 0 0 10px;
+    border: none;
+}
+
+.input-3{
+    margin: 30px 0 0 0;
+    width: 1000px;
+    height: 50px;
+    background-color: #EF2153;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Franklin Gothic Medium;
+    font-weight: bold;
+}
+
+.input-3:hover{
+    background: black;
+    color: white;
+}
+

@@ -1,0 +1,17 @@
+
+.galeria{
+    width: 100vw;
+}
+
+.galeria img{
+    float: left;
+    width: 33%;
+}
+
+.galeria-2{
+    float: left;
+}
+
+img:hover{
+    opacity: 0.7;
+}
