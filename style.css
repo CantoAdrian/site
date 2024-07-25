@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Franklin Gothic Medium;
+}
+
+body{
+    background-image: url(fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.datos{
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+.datos img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 180px 50px ;
+}
+
+.informacion{
+    float: left;
+    margin: 270px 0;
+}
+
+.informacion h1{
+    font-size: 30px;
+    padding: 5px 0;
+    color: white;
+}
+
+.informacion h2{
+    padding: 5px 0;
+    color: white;
+}
+
+.menu {
+    list-style: none;
+    float: left;
+    margin: 130px 20px;
+}
+
+.menu li{
+    display:flex;
+    }
+
+.menu a{
+    text-decoration: none;
+    background-color: black;
+    color:aliceblue;
+    margin: 25px 50px;
+    padding: 15px 40px;
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+
+.menu a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
